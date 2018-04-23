@@ -10,8 +10,6 @@
     "build": "node build/build.js"
   },
   "dependencies": {
-    "vue": "^2.5.2",
-    "vue-router": "^3.0.1",
     "cssnano": "^3.10.0",
     "mint-ui": "^2.2.13",
     "postcss-aspect-ratio-mini": "^0.0.2",

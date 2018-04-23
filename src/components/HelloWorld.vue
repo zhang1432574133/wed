@@ -61,6 +61,20 @@
 				</ul>
 			</div>
 		</div>
+		<div class="hltxt"> 
+			<p class="p1 xuetang">
+				<a href="javascript:void(0)">婚恋学堂</a>
+			</p> 
+				<a href="javascript:;"> 
+					<img src="http://www.hongniang.com/public/images/default2.jpg" alt=""> </a> 
+		</div>
+		<div class="hltxt"> 
+			<p class="p1 xuetang">
+				<a href="javascript:void(0)">恋爱交友</a>
+			</p> 
+				<a href="javascript:;"> 
+					<img src="http://www.hongniang.com/public/home/wap/images/jiaoyouquan.jpg" alt=""> </a> 
+		</div>
 		<Bottom></Bottom>
 	</div>
 </template>
